@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/* Hero Start */
+.hero img {
+    height: 300px;
+    width: 100%;
+    opacity: 0.9;
+    /* border-radius: 30px; */
+    background-size: cover;
+}
+
+.hero .emoji {
+    height: 85px;
+    margin-top: -57px;
+}
+/* hero end */
+
+/* main start */
+.holy {
+    height: 344px;
+    border-radius: 30px;
+    width: 428px;
+    margin-top: 46px;
+}
+
+.text {
+    font-size: 27px;
+    width: 70%;
+    margin: 52px 98px;
+}
+
+/* all pages link start */
+
+.sub-emoji {
+    height: 18px;
+    display: flex;
+    width: 19px;
+    margin: -5px 0 -20px -34px;
+}
+
+.holy-vible {
+    height: 150px;
+    border: 1px solid grey;
+    margin: 20px 10%;
+}
+
+/* Other Socal Link start  */
+
+.img-link {
+    height: 147px;
+    width: 230px;
+}
+
+.telegram {
+    margin-left: 160px;
+}
+
+.tweet {
+    margin-left: 187px;
+
+}
+/* Other Socal Link end  */
